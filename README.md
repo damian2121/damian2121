@@ -3,7 +3,7 @@
 ## About me
 
 My name is Damian. I am an Wroclaw University of Technology graduate. On both Bachelor and Master level I was majoring in Automation and Control Systems. 
-I consider myself a well organized, reliable person who is willing to face challenges and learn new things. As a person with strong interpersonal skills I can easily work as a team player. 
+I see myself as a well organized, reliable person who is willing to face challenges and learn new things. As a person with strong interpersonal skills I can easily work as a team player. 
 I am familiar with software life-cycle and testing methods according to ISTQB syllabus. My main goal is to turn theoretical knowledge into practical skillset. 
 
 ## Tools
