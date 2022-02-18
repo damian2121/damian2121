@@ -27,6 +27,7 @@ expected and actual results, high quality screenshot, bug reproduction video and
 *	Exploratory testing of fast-food mobile website - writing bug reports that includes: bug title, severity, frequency of occurring, step by step reproduction, 
 expected and actual results, high quality screenshot, bug reproduction video and iOS device logs. Writing mobile website review,
 * Exploratory testing of insurance company mobile website - writing bug reports that includes: bug title, severity, frequency of occurring, step by step reproduction, expected and actual results, high quality screenshot, bug reproduction video and iOS device logs. Writing mobile website review.
+* Exploratory testing of agriculture equipment mobile website - writing bug reports that includes: bug title, severity, frequency of occurring, step by step reproduction, expected and actual results, high quality screenshot, bug reproduction video and iOS device logs. Writing mobile website review.
 
 ## Achievements
 
